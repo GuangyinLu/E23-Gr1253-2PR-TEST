@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="444ca698-d0f0-4a09-9d1e-b0641c802634" name="Changes" comment="la remise deux fichier du prof&#10;exemplePoly_prof.py&#10;illustration OO_prof.png">
-      <change afterPath="$PROJECT_DIR$/exemplePoly_Guangyin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplePoly_Lynn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +36,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "8-goood13-13-13test",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/LGY_DOC/20230213 BDEB/pratique/python/E23-Gr1253-2PR-TEST",
+    "last_opened_file_path": "C:/Users/clynn/PycharmProjects/E23-Gr1253-2PR-TEST",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\clynn\PycharmProjects\E23-Gr1253-2PR-TEST" />
       <recent name="C:\LGY_DOC\20230213 BDEB\pratique\python\E23-Gr1253-2PR-TEST" />
     </key>
   </component>
