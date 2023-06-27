@@ -30,8 +30,6 @@ class Etudiant(Personne):
         self.Groupe = p_Groupe
         self.AnneeGraduation =p_AnneeGraduation
 
-
-
     def presenteToi(self):
         print('Je suis ', self.prenom, 'et suis dans le gr : ', self.Groupe)
 
