@@ -87,10 +87,12 @@ Emp2 = Employee(Personne('John', 'Hill', 43), 98765, 'Programmation OO', 'Local 
 liste.append(Emp1)
 liste.append(Emp2)
 
-Ens1 = Enseignant(Employee(liste[0], 98765, 'Programmation OO', 'Local 215'), 'Informatique')
+Ens1 = Enseignant(Employee(liste[5], 98765, 'Programmation OO', 'Local 215'), 'Informatique')
 Ens2 = Enseignant(Employee(Personne('Smith', 'Bouter', 29), 30007, 'Mathématique', 'Local 210'), 'Science')
 liste.append(Ens1)
 liste.append(Ens2)
+
+
 
 
 # constructeur V2 : E3 = Etudiant('Nabil', 'Agsous', 40, 1234567, 1253, 2024)
